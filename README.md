@@ -3,8 +3,8 @@ A project to give user canteen recommendation based on their preferences and the
 
 ## Built with
 
-* [Python] - As user interface and backend
-* [MySQL - XAMPP] - Used to manage and query data from the database
+* Python : As user interface and backend
+* MySQL - XAMPP : Used to manage and query data from the database
 
 ## Getting Started
 
@@ -16,7 +16,7 @@ A project to give user canteen recommendation based on their preferences and the
 * Operator
 * Pillow
 
-### XAMPP - Cross-Platform (X), Apache (A), MySQL (M), PHP (P) and Perl (P)
+### Installing XAMPP - Cross-Platform (X), Apache (A), MySQL (M), PHP (P) and Perl (P)
 
 To enable phpMyadmin and create database using MySQL 
 
