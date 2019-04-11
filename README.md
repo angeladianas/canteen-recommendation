@@ -22,9 +22,9 @@ To enable phpMyadmin and create database using MySQL
 
 ## Running the test
 
-Open up gui_main.py on Python shell and click run (or hit F5)
+Open up [gui_main.py](https://github.com/angeladianas/canteen-recommendation/blob/master/gui_main.py) on Python shell and click run (or hit F5)
 
-NOTE : If you do not wish to install XAMPP, then you may use data_list on the bottom of the database_1003.py and comment lines involving mysql
+NOTE : If you do not wish to install XAMPP, then you may use data_list on the bottom of the [database_1003.py](https://github.com/angeladianas/canteen-recommendation/blob/master/database_1003.py) and comment lines involving mysql
 
 ## Collaborators
 
